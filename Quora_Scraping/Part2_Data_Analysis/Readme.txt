@@ -14,11 +14,21 @@ https://drive.google.com/open?id=1dosqI32T4jfUloG_JvhEzS2xyB3I6t5T
 
 
 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 for all the files just go through this link
 https://drive.google.com/open?id=1CJ5w8P0IPhVJivV50VnOvSdbI3oQINMK
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
+NOTE:-->
+++> if you are unable to open these Source code files on github then try this 
+1. for SIMPLE_ANALYSIS_AND_PREPROCESSING.ipynb
+https://nbviewer.jupyter.org/github/priyanshgupta1998/Machine_learning/blob/master/Quora_Scraping/Part2_Data_Analysis/SIMPLE_ANALYSIS_AND_PREPROCESSING.ipynb
+
+2.for Text_Normalization.ipynb
+https://nbviewer.jupyter.org/github/priyanshgupta1998/Machine_learning/blob/master/Quora_Scraping/Part2_Data_Analysis/Text_Normalization.ipynb
 
 
 

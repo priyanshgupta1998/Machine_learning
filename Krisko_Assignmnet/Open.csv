@@ -1,0 +1,848 @@
+INSTITUTE_NAME,DEPARTMENT,RANK_PREDICTOR,CATEGORY
+ISM Dhanbad,Applied Geophysics,0,ST
+IIT Kharagpur,Economics,0,ST
+IIT Madras,Civil Engineering *,0,ST
+IIT Roorkee,Architecture,0,ST
+IIT Roorkee,Geophysical Technology,0,ST
+IIT Kanpur,Chemistry,0,ST
+IIT Kharagpur,Exploration Geophysics,0,ST
+IIT Roorkee,Pulp & Paper Engineering,0,ST
+IIT Kharagpur,Applied Geology,0,ST
+IIT Madras,Electrical Engineering *,0,ST
+IIT (BHU) Varanasi,Industrial Chemistry,0,ST
+IIT (BHU) Varanasi,Pharmaceutics,0,ST
+ISM Dhanbad,Mathematics & Computing,0,ST
+ISM Dhanbad,Applied Geology,0,ST
+IIT Madras,Naval Architecture & Ocean Engineering,0,ST
+IIT Bombay,Computer Engineering,1,GENERAL
+IIT Bombay,Computer Engineering,2,SC
+IIT Bombay,Electrical Engineering,2,ST
+IIT Bombay,Computer Engineering,3,ST
+IIT Bombay,Electrical (in Microelectronics) Engineering,4,ST
+IIT Delhi,Computer Engineering,4,GENERAL
+IIT Delhi,Computer Engineering,5,ST
+IIT Bombay,Electrical Engineering,7,GENERAL
+IIT Delhi,Mechanical Engineering,8,ST
+IIT Bombay,Computer Engineering,8,OBC
+IIT Madras,Electrical Engineering,9,ST
+IIT Delhi,Electrical Engineering,10,ST
+IIT Delhi,Computer Engineering,10,SC
+IIT Bombay,Electrical Engineering,12,SC
+IIT Bombay,Engineering Physics,15,SC
+IIT Delhi,Electrical Engineering,16,SC
+IIT Delhi,Civil Engineering,17,ST
+IIT Madras,Computer Engineering,17,SC
+IIT Bombay,Mechanical Engineering,22,ST
+IIT Madras,Computer Engineering,23,ST
+IIT Bombay,Mechanical Engineering,24,GENERAL
+IIT Madras,Engineering Physics,28,SC
+IIT Delhi,Computer Engineering,28,OBC
+IIT Bombay,Mechanical Engineering,29,SC
+IIT Kanpur,Mechanical Engineering,30,ST
+IIT Delhi,Mechanical Engineering,31,SC
+IIT Bombay,Electrical Engineering,34,OBC
+IIT Kanpur,Computer Engineering,36,ST
+IIT Kanpur,Computer Engineering,42,SC
+IIT Kanpur,Computer Engineering,42,OBC
+IIT Madras,Mechanical Engineering,42,ST
+IIT Kharagpur,Mechanical (M. Tech in any specialization),43,ST
+IIT Delhi,Electrical Engineering,44,OBC
+IIT Bombay,Aerospace Engineering,46,SC
+IIT Delhi,Computer Science & Engineering,48,ST
+IIT Kharagpur,Computer Engineering,49,ST
+IIT Madras,Computer Engineering,52,OBC
+IIT Delhi,Civil Engineering,52,SC
+IIT Madras,Mechanical Engineering,54,GENERAL
+IIT Madras,Mechanical Engineering,56,SC
+IIT Bombay,Electrical Engineering *,57,OBC
+IIT Kharagpur,Aerospace Engineering,58,SC
+IIT Kanpur,Electrical Engineering,59,ST
+IIT Madras,Computer Engineering,63,GENERAL
+IIT Delhi,Computer Science & Engineering,66,GENERAL
+IIT Roorkee,Mechanical Engineering,68,ST
+IIT Madras,Electrical Engineering,68,SC
+IIT Bombay,Civil Engineering,69,ST
+IIT Madras,Electrical Engineering,71,OBC
+IIT Delhi,Computer Science & Engineering,72,SC
+IIT Kharagpur,Electronics &Electrical Engineering,76,ST
+IIT Delhi,Electrical Engineering,80,GENERAL
+IIT Delhi,Electrical (Power & Automation) Engineering,81,ST
+IIT Kharagpur,Computer Engineering,84,SC
+IIT Bombay,Mechanical Engineering,88,OBC
+IIT Delhi,Mechanical Engineering,90,OBC
+IIT Madras,Electrical Engineering,91,GENERAL
+IIT Kharagpur,Electrical Engineering,92,ST
+IIT Kharagpur,Mechanical Engineering,97,ST
+IIT Bombay,Electrical (in Microelectronics) Engineering,100,OBC
+IIT Madras,Engineering Physics,100,GENERAL
+IIT Gandhinagar,Electrical Engineering,100,ST
+IIT Kharagpur,Civil Engineering,103,ST
+IIT Kanpur,Civil Engineering,104,ST
+IIT Kanpur,Electrical Engineering,104,SC
+IIT Kharagpur,Computer Engineering,104,OBC
+IIT Delhi,Computer Science & Engineering,107,OBC
+IIT Bombay,Civil Engineering,107,SC
+IIT Roorkee,Computer Engineering,111,ST
+IIT Roorkee,Electrical Engineering,112,ST
+IIT Madras,Computer Science & Engineering,113,ST
+IIT Roorkee,Civil Engineering,114,ST
+IIT Madras,Computer Science & Engineering,114,SC
+IIT Bombay,Electrical Engineering *,115,SC
+IIT Bombay,Electrical Engineering *,116,ST
+IIT Kanpur,Computer Engineering,120,GENERAL
+IIT Bombay,Mechanical (M. Tech in Computer Aided Design),124,ST
+IIT Guwahati,Computer Engineering,127,SC
+IIT Kharagpur,Electronics &Electrical Engineering,127,OBC
+IIT Delhi,Electrical (Power & Automation) Engineering,131,SC
+IIT Kanpur,Mechanical Engineering,135,SC
+IIT Kharagpur,Electrical Engineering,135,OBC
+IIT Patna,Mechanical Engineering,136,ST
+IIT Bombay,Electrical (in Microelectronics) Engineering,137,GENERAL
+IIT Guwahati,Electronics & Electrical Engineering,139,ST
+IIT Kharagpur,Computer Science & Engineering,140,SC
+IIT Bombay,Electrical (in Microelectronics) Engineering,143,SC
+IIT Bombay,Mechanical (M. Tech in Computer Integrated Manufacturing),144,ST
+IIT Madras,Civil Engineering,146,ST
+IIT Kharagpur,Electronics &Electrical Engineering,147,SC
+IIT Madras,Computer Science & Engineering,148,OBC
+IIT Kharagpur,Electrical Engineering,150,SC
+IIT Kanpur,Aerospace Engineering,150,ST
+IIT Bombay,Chemical Engineering,151,SC
+IIT Bombay,Engineering Physics,151,ST
+IIT Madras,Civil Engineering *,153,SC
+IIT Bombay,Aerospace Engineering,154,ST
+IIT Madras,Mechanical Engineering,155,OBC
+IIT Bombay,Chemical Engineering,158,ST
+IIT Kharagpur,Mechanical (M. Tech in any specialization),159,SC
+IIT Kanpur,Electrical Engineering,167,OBC
+IIT Roorkee,Mechanical Engineering,169,SC
+IIT Roorkee,Electronics & Communication Engineering,172,ST
+IIT Ropar,Computer Engineering,173,SC
+IIT Hydrabad,Computer Engineering,176,ST
+IIT Bhubaneshwar,Mechanical Engineering,177,ST
+IIT Kharagpur,Computer Science & Engineering,178,ST
+IIT Roorkee,Computer Engineering,178,SC
+IIT Kanpur,Electrical Engineering,181,GENERAL
+IIT Madras,Naval Arch. & Ocean Engineering,181,ST
+IIT indore,Electrical Engineering,182,ST
+IIT Kharagpur,Mechanical Engineering,184,SC
+IIT Kharagpur,Electronics and Electrical Communication Engineering,185,ST
+IIT Guwahati,Computer Engineering,187,ST
+IIT Hydrabad,Mechanical Engineering,190,ST
+IIT Bombay,Electrical Engineering *,192,GENERAL
+IIT Madras,Aerospace,193,ST
+IIT Kanpur,Physics,194,GENERAL
+IIT Bombay,Mechanical (M. Tech in Computer Aided Design),195,SC
+IIT Delhi,Production Engineering,196,ST
+IIT Guwahati,Mechanical Engineering,197,ST
+IIT Delhi,Electrical (Power & Automation) Engineering,197,OBC
+IIT Madras,Electrical Engineering,204,ST
+IIT Kharagpur,Electronics and Electrical Communication Engineering,205,OBC
+IIT Bombay,Engineering Physics,206,GENERAL
+IIT Mandi,Electrical Engineering,208,ST
+IIT Delhi,Chemical Engineering,209,ST
+IIT Bombay,Mechanical (M. Tech in Computer Integrated Manufacturing),209,SC
+IIT Roorkee,Computer Engineering,212,OBC
+IIT Madras,Mechanical (Product Design),212,ST
+IIT (BHU) Varanasi,Electrical Engineering,213,ST
+IIT Kharagpur,Electrical Engineering *,214,ST
+IIT Guwahati,Civil Engineering,215,ST
+IIT Kharagpur,Computer Science & Engineering,218,OBC
+IIT Jodhpur,Computer Engineering,218,ST
+IIT Delhi,Engineering Physics,219,SC
+IIT Madras,Aerospace Engineering,225,ST
+IIT Kanpur,Civil Engineering,227,SC
+IIT (BHU) Varanasi,Civil Engineering,229,ST
+IIT Gandhinagar,Civil Engineering,236,ST
+IIT Bombay,Metallurgical Science,239,ST
+IIT Roorkee,Electrical Engineering,240,SC
+IIT Kharagpur,Computer Engineering,240,GENERAL
+IIT Kharagpur,Electronics &Electrical Engineering,241,GENERAL
+IIT (BHU) Varanasi,Mechanical Engineering,249,ST
+ISM Dhanbad,Civil Engineering,252,ST
+IIT Madras,Chemical Engineering,253,GENERAL
+IIT Madras,Mechanical (Intelligent Manufacturing),256,ST
+IIT Hydrabad,Computer Engineering,256,SC
+IIT Bombay,Aerospace Engineering,256,OBC
+IIT Madras,Civil Engineering,258,SC
+IIT Bombay,Mechanical (M. Tech in Computer Aided Design),267,OBC
+IIT Gandhinagar,Mechanical Engineering,269,ST
+IIT Kanpur,Aerospace Engineering,270,SC
+IIT Kharagpur,Civil (any specialization),271,ST
+IIT Delhi,Mechanical Engineering,272,GENERAL
+IIT Kharagpur,Aerospace Engineering,273,ST
+IIT Guwahati,Electronics & Communication Engineering,275,ST
+IIT Madras,Civil (any specialization),276,SC
+IIT Guwahati,Chemical Engineering,276,ST
+IIT Madras,Electrical Engineering,278,OBC
+IIT Madras,Mechanical (Thermal Engineering),278,ST
+IIT Kanpur,Chemical Engineering,283,ST
+IIT Bhubaneshwar,Electrical Engineering,284,ST
+IIT Kanpur,Mechanical Engineering,285,GENERAL
+IIT Madras,Electrical Engineering,286,SC
+IIT Madras,Civil (Infrastructural),286,ST
+IIT Delhi,Chemical Engineering,294,SC
+IIT (BHU) Varanasi,Computer Engineering,296,ST
+IIT Hydrabad,Electrical Engineering,297,ST
+IIT Madras,Civil (any specialization),299,ST
+IIT Madras,Engineering Design(Automotive),302,ST
+IIT Kanpur,Mechanical Engineering,302,OBC
+IIT Delhi,Chemical Engineering,303,OBC
+IIT Madras,Computer Science & Engineering,304,GENERAL
+IIT Madras,Aerospace Engineering,304,SC
+IIT Hydrabad,Civil Engineering,306,ST
+IIT Ropar,Computer Engineering,308,ST
+IIT (BHU) Varanasi,Electronics Engineering,310,ST
+IIT (BHU) Varanasi,Mechanical Engineering,316,ST
+IIT Madras,Mechanical (Product Design),318,SC
+IIT Delhi,Civil Engineering,320,OBC
+IIT Bombay,Engineering Physics *,322,ST
+IIT Hydrabad,Computer Engineering,323,OBC
+IIT Guwahati,Mechanical Engineering,326,SC
+IIT Bhubaneshwar,Civil Engineering,330,ST
+IIT indore,Computer Engineering,332,ST
+IIT Jodhpur,Electrical Engineering,334,ST
+IIT Bombay,Energy (M. Tech in Energy Systems) Engineering,335,ST
+IIT Jodhpur,Computer Engineering,336,SC
+IIT Bombay,Mechanical (M. Tech in Computer Integrated Manufacturing),338,OBC
+IIT Madras,Electrical Engineering *,339,SC
+IIT (BHU) Varanasi,Civil with M. Tech in Structural Engineering,339,ST
+ISM Dhanbad,Mechanical Engineering,340,ST
+IIT (BHU) Varanasi,Computer Engineering,340,SC
+IIT (BHU) Varanasi,Electrical (Power Electronics) Engineering,341,ST
+IIT Kharagpur,Instrumentation Engineering,342,ST
+IIT indore,Computer Engineering,342,SC
+IIT Bombay,Metallurgical and Materials Engineering *,343,ST
+IIT Madras,Chemical Engineering,344,ST
+IIT Kharagpur,Aerospace,347,ST
+IIT Roorkee,Electronics & Communication Engineering,347,SC
+IIT Bhubaneshwar,Computer Engineering,350,ST
+IIT Kharagpur,Mechanical Engineering,351,OBC
+IIT Kharagpur,Mining Engineering,352,ST
+IIT (BHU) Varanasi,Computer Science & Engineering,357,ST
+IIT Delhi,Mathematics & Computing,357,GENERAL
+IIT Kharagpur,Electrical Engineering *,360,SC
+IIT Guwahati,Computer Engineering,363,OBC
+IIT Delhi,Chemical Engineering,364,ST
+IIT indore,Mechanical Engineering,365,ST
+IIT Roorkee,Civil Engineering,367,SC
+IIT Delhi,Production Engineering,371,SC
+ISM Dhanbad,Electrical Engineering,372,ST
+IIT (BHU) Varanasi,Mining Engineering,373,ST
+IIT Delhi,Electrical (Power & Automation) Engineering,374,GENERAL
+IIT Ropar,Electrical Engineering,374,ST
+IIT Kharagpur,Chemical Engineering,375,ST
+IIT Roorkee,Chemical Engineering,376,ST
+IIT Delhi,Mathematics & Computing,377,ST
+IIT Roorkee,Computer Engineering,379,GENERAL
+IIT Bombay,Civil Engineering,379,OBC
+IIT Madras,Aerospace *,381,ST
+IIT (BHU) Varanasi,Mechanical Engineering,387,SC
+IIT Jodhpur,Mechanical Engineering,391,ST
+IIT Kharagpur,Electronics and Electrical Communication Engineering,392,SC
+IIT Guwahati,Biotechnology,394,ST
+IIT Madras,Metallurgical Engineering,395,ST
+IIT Ropar,Mechanical Engineering,399,ST
+ISM Dhanbad,Petroleum Engineering,400,SC
+IIT Bombay,Civil Engineering,400,GENERAL
+ISM Dhanbad,Electronics & Communication Engineering,401,ST
+IIT Delhi,Engineering Physics,402,ST
+IIT Bombay,Aerospace Engineering,405,GENERAL
+IIT Mandi,Mechanical  Engineering,411,ST
+IIT Guwahati,Mathematics Computing,412,ST
+IIT Delhi,Chemical Engineering,413,SC
+IIT Kharagpur,Computer Science & Engineering,416,GENERAL
+IIT Madras,Chemical Engineering,416,SC
+IIT Kharagpur,Civil Engineering,420,SC
+IIT Madras,Chemical Engineering,424,OBC
+IIT Madras,Mechanical (Product Design),425,OBC
+IIT Ropar,Mechanical Engineering,426,SC
+IIT Bombay,Chemical Engineering,427,OBC
+ISM Dhanbad,Computer Engineering,435,ST
+IIT (BHU) Varanasi,Computer Engineering,435,OBC
+IIT Ropar,Computer Engineering,443,OBC
+IIT Roorkee,Mechanical Engineering,445,OBC
+IIT Madras,Chemical Engineering,445,ST
+IIT Kanpur,Economics,445,SC
+IIT Delhi,Mathematics & Computing,448,OBC
+IIT Patna,Electrical Engineering,448,ST
+IIT Roorkee,Production Engineering,453,ST
+IIT Bombay,Engineering Physics,455,OBC
+IIT Kharagpur,Industrial Engineering,456,ST
+IIT Gandhinagar,Chemical Engineering,457,ST
+IIT Roorkee,Electrical Engineering,459,OBC
+IIT Patna,Computer Science and Engineering,460,ST
+IIT Madras,Mechanical (Intelligent Manufacturing),460,SC
+IIT Roorkee,Electronics & Communication Engineering,460,OBC
+ISM Dhanbad,Petroleum Engineering,461,ST
+IIT Guwahati,Electronics & Communication Engineering,473,SC
+IIT Mandi,Computer Engineering,476,ST
+IIT Kharagpur,Chemical Engineering,477,ST
+IIT Madras,Aerospace,477,SC
+IIT Madras,Mechanical (Intelligent Manufacturing),481,OBC
+IIT Kanpur,Biological Sc. & Bioengineering,482,ST
+IIT Madras,Mechanical (Thermal Engineering),483,SC
+IIT (BHU) Varanasi,Chemical Engineering,485,ST
+IIT Delhi,Textile Technology,491,ST
+IIT Kharagpur,Aerospace,492,SC
+IIT Hydrabad,Electrical Engineering,492,OBC
+IIT Guwahati,Electronics & Electrical Engineering,495,SC
+IIT Kharagpur,Civil (any specialization),496,SC
+IIT Madras,Aerospace Engineering,500,OBC
+IIT Delhi,Mathematics & Computing,501,SC
+IIT Kanpur,Materials Science Engineering,504,ST
+IIT Bombay,Mechanical (M. Tech in Computer Aided Design),505,GENERAL
+IIT Kharagpur,Electrical Engineering *,506,OBC
+IIT (BHU) Varanasi,Electronics Engineering,510,SC
+IIT Guwahati,Mechanical Engineering,511,OBC
+IIT Bombay,Metallurgical and Materials Engineering *,515,ST
+IIT Madras,Engineering Physics,518,ST
+IIT (BHU) Varanasi,Computer Science & Engineering,520,SC
+IIT Gandhinagar,Chemical Engineering,521,SC
+IIT Bombay,Metallurgical Science,526,SC
+ISM Dhanbad,Mining Engineering,527,ST
+IIT Kharagpur,Chemical Engineering,529,SC
+ISM Dhanbad,Electronics & Instrumentation Engineering,530,ST
+IIT Kanpur,Civil Engineering,531,OBC
+IIT Jodhpur,Mechanical Engineering,532,SC
+IIT Kharagpur,Ocean Engineering & Naval Architecture,535,ST
+IIT Kharagpur,Mechanical (M. Tech in any specialization),536,OBC
+IIT Madras,Civil Engineering,537,OBC
+IIT (BHU) Varanasi,Engineering Physics,539,ST
+IIT Madras,Electrical Engineering *,543,OBC
+IIT Madras,Naval Architecture & Ocean Engineering *,546,ST
+IIT Hydrabad,Chemical Engineering,547,ST
+IIT Kharagpur,Metallurgical Engineering,548,ST
+IIT Kanpur,Physics,549,OBC
+IIT Roorkee,Metallurgical Engineering,552,ST
+IIT Gandhinagar,Mechanical Engineering,553,SC
+IIT Guwahati,Electronics & Electrical Engineering,559,OBC
+IIT Guwahati,Chemical Technology,559,ST
+IIT Hydrabad,Mechanical Engineering,560,SC
+IIT Madras,Civil (Infrastructural),563,SC
+IIT Kanpur,Chemical Engineering,564,SC
+IIT Madras,Physics,564,ST
+IIT (BHU) Varanasi,Electrical Engineering,568,SC
+IIT Kharagpur,Metallurgical and Materials Engineering *,577,ST
+IIT Kharagpur,Chemical Engineering,578,SC
+IIT Patna,Chemical Science and Technology,578,ST
+IIT Kharagpur,Electrical Engineering,580,GENERAL
+IIT Kharagpur,Agricultural & Food Engineering,580,ST
+IIT Guwahati,Design,581,ST
+IIT Hydrabad,Engineering Science,583,ST
+IIT Madras,Aerospace *,588,SC
+IIT Kharagpur,Manufacturing Science (M. Tech in Industrial Engineering & Management),590,ST
+ISM Dhanbad,Computer Science & Engineering,596,ST
+IIT Guwahati,Engineering Physics,598,ST
+IIT Hydrabad,Mechanical Engineering,599,OBC
+IIT Delhi,Textile Technology,599,SC
+IIT Madras,Metallurgical & Material Engineering,599,ST
+ISM Dhanbad,Chemical Engineering,601,ST
+IIT Kharagpur,Industrial Engineering,603,SC
+IIT Hydrabad,Electrical Engineering,604,SC
+ISM Dhanbad,Petroleum (with M. Tech in Petroleum Management),605,ST
+IIT Kharagpur,Biotechnology & Biochemical Engineering,613,ST
+IIT Kharagpur,Manufacturing Engineering,616,ST
+IIT Guwahati,Civil Engineering,618,SC
+IIT Kharagpur,Instrumentation Engineering,619,SC
+IIT Kharagpur,Industrial Engineering (M. Tech in Industrial Engineering & Management),619,ST
+IIT Madras,Engineering Design(Biomedical),620,ST
+IIT Kanpur,Economics,623,ST
+IIT Bombay,Mechanical (M. Tech in Computer Integrated Manufacturing),625,GENERAL
+IIT Kharagpur,Aerospace Engineering,628,OBC
+IIT Madras,Mechanical (Thermal Engineering),629,OBC
+IIT (BHU) Varanasi,Metallurgical Engineering,632,ST
+IIT (BHU) Varanasi,Material Science,634,ST
+IIT Hydrabad,Computer Engineering,635,GENERAL
+IIT Delhi,Biochemical,642,ST
+IIT Jodhpur,Systems Science,642,ST
+IIT Kanpur,Aerospace Engineering,644,OBC
+ISM Dhanbad,Mechanical Engineering,647,SC
+IIT Kharagpur,Quality Engineering Design& Manufacturing,649,ST
+IIT (BHU) Varanasi,Civil Engineering,652,SC
+IIT Kharagpur,Ocean Engineering & Naval Architecture Engineering,655,ST
+IIT Madras,Electrical Engineering,657,GENERAL
+IIT Kanpur,Mathematics & Scientific Computing,660,GENERAL
+IIT Madras,Metallurgical Engineering,660,SC
+IIT (BHU) Varanasi,Mechanical Engineering,661,SC
+IIT Jodhpur,Electrical Engineering,667,SC
+IIT (BHU) Varanasi,Mathematics & Computing,668,ST
+IIT Kanpur,Mathematics & Scientific Computing,669,ST
+IIT Kharagpur,Mining Engineering,673,ST
+IIT Guwahati,Electronics & Communication Engineering,673,OBC
+IIT Hydrabad,Civil Engineering,676,SC
+IIT Bhubaneshwar,Mechanical Engineering,680,SC
+IIT Bhubaneshwar,Computer Engineering,681,SC
+IIT Madras,Naval Arch. & Ocean Engineering,691,SC
+IIT (BHU) Varanasi,Metallurgical Engineering,695,ST
+IIT Madras,Biological Engineering,707,ST
+IIT Delhi,Biochemical,710,SC
+IIT Bombay,Engineering Physics *,715,SC
+IIT Madras,Civil Engineering *,715,OBC
+IIT Hydrabad,Engineering Physics,716,ST
+IIT Roorkee,Biotechnology,717,ST
+IIT Bombay,Energy (M. Tech in Energy Systems) Engineering,721,SC
+IIT Delhi,Chemical Engineering,725,GENERAL
+IIT Madras,Aerospace,725,OBC
+IIT Kanpur,Chemical Engineering,726,OBC
+IIT Bombay,Chemical Engineering,727,GENERAL
+ISM Dhanbad,Mining Engineering,727,ST
+IIT Kanpur,Mathematics & Scientific Computing,729,OBC
+IIT (BHU) Varanasi,Ceramic Engineering,730,ST
+IIT Guwahati,Chemical Engineering,733,SC
+IIT Roorkee,Physics,734,ST
+IIT Gandhinagar,Electrical Engineering,735,SC
+IIT (BHU) Varanasi,Mechanical Engineering,735,OBC
+IIT Kanpur,Materials Science Engineering,736,SC
+ISM Dhanbad,Mining Machinery,738,ST
+ISM Dhanbad,Mineral Engineering,739,ST
+IIT Guwahati,Computer Engineering,739,GENERAL
+IIT (BHU) Varanasi,Electrical Engineering,740,OBC
+IIT Roorkee,Chemical Engineering,743,SC
+IIT Ropar,Electrical Engineering,746,SC
+IIT Kharagpur,Agriculture & Food *,747,ST
+IIT Madras,Engineering Design(Automotive),749,SC
+IIT (BHU) Varanasi,Mining Engineering,749,ST
+IIT Kharagpur,Mathematics & Computing,754,ST
+IIT (BHU) Varanasi,Computer Engineering,754,GENERAL
+IIT Guwahati,Mathematics Computing,756,OBC
+IIT Madras,Chemical Engineering,758,SC
+IIT (BHU) Varanasi,Computer Science & Engineering,761,OBC
+IIT Madras,Biological Sciences,764,ST
+IIT Kharagpur,Mining Safety Engineering,765,ST
+IIT Mandi,Computer Engineering,765,SC
+IIT Guwahati,Mathematics Computing,771,SC
+IIT Kharagpur,Mining Engineering,772,SC
+IIT Patna,Computer Science and Engineering,782,SC
+ISM Dhanbad,Environmental Engineering,785,ST
+IIT Bombay,Energy (M. Tech in Energy Systems) Engineering,790,OBC
+ISM Dhanbad,Mining Engineering with MBA,790,ST
+IIT Hydrabad,Chemical Engineering,793,SC
+IIT (BHU) Varanasi,Civil with M. Tech in Structural Engineering,794,SC
+IIT Madras,Mechanical (Product Design),795,GENERAL
+IIT Kharagpur,Architecture,795,ST
+IIT (BHU) Varanasi,Electrical (Power Electronics) Engineering,798,SC
+IIT Roorkee,Production Engineering,799,SC
+IIT Kanpur,Physics,799,ST
+IIT Kharagpur,Biotechnology & Biochemical Engineering,801,ST
+IIT (BHU) Varanasi,Ceramic Engineering,803,ST
+IIT (BHU) Varanasi,Electronics Engineering,803,OBC
+IIT Kharagpur,Instrumentation Engineering,806,OBC
+IIT Kharagpur,Chemistry,806,ST
+IIT Kharagpur,Electronics and Electrical Communication Engineering,809,GENERAL
+IIT Bombay,Engineering Physics *,809,OBC
+ISM Dhanbad,Mining Engineering,810,SC
+IIT Roorkee,Polymer Science Technology,812,ST
+IIT Kharagpur,Industrial Engineering (M. Tech in Industrial Engineering & Management),820,SC
+IIT Jodhpur,Biologically-inspired,820,ST
+IIT Kharagpur,Mathematics & Computing,824,SC
+IIT Delhi,Production Engineering,826,GENERAL
+IIT (BHU) Varanasi,Bioengineering,830,ST
+IIT Delhi,Production Engineering,837,OBC
+IIT Roorkee,Process Engineering with MBA,838,ST
+ISM Dhanbad,Electrical Engineering,838,SC
+IIT (BHU) Varanasi,Mathematics & Computing,840,OBC
+IIT indore,Mechanical Engineering,840,SC
+IIT Roorkee,Applied Mathematics,842,ST
+IIT Gandhinagar,Civil Engineering,845,SC
+IIT (BHU) Varanasi,Biochemical Engineering,845,ST
+IIT Roorkee,Geological Technology,848,ST
+IIT Bhubaneshwar,Electrical Engineering,854,SC
+ISM Dhanbad,Mineral Engineering (with M.Tech in Mineral),854,ST
+ISM Dhanbad,Computer Engineering,855,SC
+IIT Roorkee,Civil Engineering,856,OBC
+IIT Delhi,Engineering Physics,859,GENERAL
+ISM Dhanbad,Civil Engineering,873,SC
+IIT Guwahati,Chemical Technology,878,SC
+IIT Roorkee,Electronics & Communication Engineering,878,GENERAL
+IIT indore,Electrical Engineering,880,SC
+IIT Patna,Computer Science and Engineering,881,OBC
+IIT Kharagpur,Metallurgical Engineering,883,SC
+IIT Kharagpur,Ocean Engineering & Naval Architecture Engineering,892,SC
+IIT Jodhpur,Mechanical Engineering,895,OBC
+IIT Kharagpur,Civil Engineering,904,OBC
+IIT (BHU) Varanasi,Material Science,906,SC
+IIT Bhubaneshwar,Computer Engineering,907,OBC
+ISM Dhanbad,Computer Science & Engineering,912,SC
+IIT Bhubaneshwar,Civil Engineering,919,SC
+IIT Hydrabad,Engineering Science,920,SC
+IIT Kanpur,Physics,926,SC
+IIT Kharagpur,Chemical Engineering,926,OBC
+IIT Bombay,Energy (M. Tech in Energy Systems) Engineering,932,GENERAL
+IIT Kharagpur,Manufacturing Science (M. Tech in Industrial Engineering & Management),935,SC
+IIT (BHU) Varanasi,Chemical Engineering,936,SC
+IIT Patna,Mechanical Engineering,938,SC
+IIT Delhi,Civil Engineering,942,GENERAL
+ISM Dhanbad,Electronics & Communication Engineering,952,OBC
+IIT Kharagpur,Mathematics & Computing,955,OBC
+IIT Guwahati,Engineering Physics,962,SC
+IIT Bombay,Engineering Physics *,963,GENERAL
+IIT Madras,Engineering Physics,964,OBC
+ISM Dhanbad,Computer Engineering,968,OBC
+IIT Kharagpur,Chemistry,971,SC
+IIT Kharagpur,Mechanical Engineering,971,GENERAL
+IIT Mandi,Mechanical  Engineering,972,SC
+IIT Patna,Electrical Engineering,973,SC
+IIT Kharagpur,Metallurgical and Materials Engineering *,988,SC
+IIT Madras,Metallurgical & Material Engineering,990,SC
+IIT Madras,Civil (Infrastructural),992,OBC
+IIT Mandi,Electrical Engineering,995,SC
+IIT Bombay,Metallurgical Science,996,OBC
+IIT Delhi,Chemical Engineering,998,OBC
+ISM Dhanbad,Electronics & Communication Engineering,1000,SC
+IIT Hydrabad,Engineering Physics,1006,SC
+IIT Madras,Electrical Engineering *,1008,GENERAL
+IIT Bombay,Metallurgical and Materials Engineering *,1010,SC
+IIT Madras,Engineering Design(Biomedical),1012,SC
+IIT Madras,Biological Engineering,1015,SC
+IIT Kanpur,Chemical Engineering,1018,GENERAL
+IIT Bombay,Metallurgical and Materials Engineering *,1025,SC
+IIT Delhi,Engineering Physics,1030,OBC
+IIT Madras,Civil (any specialization),1031,OBC
+IIT Madras,Mechanical (Intelligent Manufacturing),1033,GENERAL
+IIT Gandhinagar,Electrical Engineering,1038,OBC
+IIT Roorkee,Electrical Engineering,1039,GENERAL
+IIT Kharagpur,Manufacturing Engineering,1047,SC
+IIT Bhubaneshwar,Electrical Engineering,1059,OBC
+IIT indore,Computer Engineering,1068,OBC
+IIT Kharagpur,Aerospace,1073,OBC
+IIT Kanpur,Mathematics & Scientific Computing,1077,SC
+IIT Hydrabad,Civil Engineering,1083,OBC
+IIT Kharagpur,Agricultural & Food Engineering,1086,SC
+IIT Mandi,Computer Engineering,1094,OBC
+IIT Kanpur,Economics,1099,GENERAL
+IIT Madras,Naval Architecture & Ocean Engineering,1108,SC
+IIT Madras,Physics,1112,SC
+IIT Kharagpur,Electrical Engineering *,1115,GENERAL
+IIT Roorkee,Mechanical Engineering,1117,GENERAL
+IIT Ropar,Mechanical Engineering,1119,OBC
+IIT Roorkee,Biotechnology,1123,SC
+IIT Madras,Engineering Design(Automotive),1135,OBC
+IIT Kharagpur,Quality Engineering Design& Manufacturing,1144,SC
+IIT (BHU) Varanasi,Mechanical Engineering,1147,OBC
+IIT Guwahati,Electronics & Communication Engineering,1149,GENERAL
+IIT Kharagpur,Civil (any specialization),1150,OBC
+IIT Guwahati,Biotechnology,1159,SC
+IIT Kharagpur,Biotechnology & Biochemical Engineering,1167,SC
+IIT Ropar,Electrical Engineering,1170,OBC
+IIT (BHU) Varanasi,Mining Engineering,1175,SC
+IIT Roorkee,Metallurgical Engineering,1191,SC
+IIT Kanpur,Materials Science Engineering,1197,OBC
+IIT (BHU) Varanasi,Mathematics & Computing,1204,SC
+IIT Patna,Mechanical Engineering,1206,OBC
+IIT Madras,Naval Architecture & Ocean Engineering *,1208,SC
+IIT Kharagpur,Economics,1210,SC
+ISM Dhanbad,Mechanical Engineering,1217,OBC
+IIT (BHU) Varanasi,Engineering Physics,1220,SC
+IIT (BHU) Varanasi,Electrical (Power Electronics) Engineering,1223,OBC
+IIT Madras,Chemical Engineering,1227,GENERAL
+IIT Kharagpur,Ocean Engineering & Naval Architecture,1231,SC
+IIT Guwahati,Mathematics Computing,1238,GENERAL
+IIT Bombay,Metallurgical Science,1243,GENERAL
+IIT Roorkee,Production Engineering,1245,OBC
+IIT Guwahati,Civil Engineering,1246,OBC
+ISM Dhanbad,Chemical Engineering,1249,SC
+IIT Hydrabad,Electrical Engineering,1249,GENERAL
+IIT Gandhinagar,Mechanical Engineering,1254,OBC
+IIT Patna,Chemical Science and Technology,1270,SC
+IIT Bhubaneshwar,Mechanical Engineering,1272,OBC
+IIT Roorkee,Chemical Engineering,1273,OBC
+IIT Kharagpur,Instrumentation Engineering,1277,GENERAL
+IIT Jodhpur,Computer Engineering,1278,OBC
+ISM Dhanbad,Electronics & Instrumentation Engineering,1286,SC
+IIT Mandi,Mechanical  Engineering,1287,OBC
+IIT Roorkee,Process Engineering with MBA,1289,SC
+ISM Dhanbad,Petroleum (with M. Tech in Petroleum Management),1290,SC
+ISM Dhanbad,Mathematics & Computing,1297,SC
+IIT Kharagpur,Mechanical (M. Tech in any specialization),1303,GENERAL
+IIT (BHU) Varanasi,Civil Engineering,1309,OBC
+IIT Madras,Naval Arch. & Ocean Engineering,1318,OBC
+IIT Madras,Chemical Engineering,1320,OBC
+IIT Kharagpur,Industrial Engineering,1330,OBC
+IIT Guwahati,Design,1333,SC
+IIT Kanpur,Biological Sc. & Bioengineering,1344,SC
+IIT Guwahati,Mechanical Engineering,1346,GENERAL
+IIT Kharagpur,Architecture,1357,SC
+IIT (BHU) Varanasi,Metallurgical Engineering,1361,SC
+IIT Kanpur,Civil Engineering,1363,GENERAL
+IIT Roorkee,Geophysical Technology,1376,SC
+IIT Kharagpur,Manufacturing Engineering,1380,OBC
+IIT Roorkee,Pulp & Paper Engineering,1384,SC
+IIT Patna,Electrical Engineering,1387,OBC
+IIT Kanpur,Chemistry,1391,SC
+IIT Madras,Aerospace *,1400,OBC
+IIT Roorkee,Geological Technology,1402,SC
+IIT Delhi,Chemical Engineering,1405,GENERAL
+IIT Kharagpur,Mining Engineering,1406,SC
+ISM Dhanbad,Mining Engineering,1411,OBC
+IIT Jodhpur,Computer Engineering,1420,GENERAL
+IIT indore,Electrical Engineering,1423,OBC
+IIT Guwahati,Electronics & Electrical Engineering,1426,GENERAL
+IIT Kharagpur,Agriculture & Food *,1437,SC
+IIT Jodhpur,Systems Science,1444,SC
+IIT Roorkee,Applied Mathematics,1453,SC
+IIT (BHU) Varanasi,Computer Science & Engineering,1456,GENERAL
+IIT Kharagpur,Ocean Engineering & Naval Architecture,1456,OBC
+IIT (BHU) Varanasi,Chemical Engineering,1458,OBC
+IIT Ropar,Computer Engineering,1461,GENERAL
+IIT Kharagpur,Chemical Engineering,1462,OBC
+IIT Guwahati,Chemical Engineering,1463,OBC
+IIT (BHU) Varanasi,Electronics Engineering,1469,GENERAL
+IIT (BHU) Varanasi,Metallurgical Engineering,1470,SC
+IIT Madras,Civil Engineering,1471,GENERAL
+IIT Kharagpur,Mining Engineering,1480,OBC
+IIT Roorkee,Physics,1495,SC
+IIT (BHU) Varanasi,Civil with M. Tech in Structural Engineering,1498,OBC
+IIT indore,Mechanical Engineering,1501,OBC
+IIT Kharagpur,Biotechnology & Biochemical Engineering,1502,SC
+IIT (BHU) Varanasi,Ceramic Engineering,1504,SC
+IIT Madras,Biological Sciences,1504,SC
+IIT (BHU) Varanasi,Ceramic Engineering,1508,SC
+IIT Kanpur,Economics,1511,OBC
+IIT (BHU) Varanasi,Mechanical Engineering,1513,GENERAL
+IIT Roorkee,Polymer Science Technology,1514,SC
+ISM Dhanbad,Mining Machinery,1515,SC
+ISM Dhanbad,Electrical Engineering,1517,OBC
+ISM Dhanbad,Mineral Engineering,1518,SC
+IIT Madras,Aerospace Engineering,1521,GENERAL
+IIT Roorkee,Civil Engineering,1523,GENERAL
+IIT Kharagpur,Metallurgical Engineering,1532,OBC
+ISM Dhanbad,Mining Engineering,1533,SC
+ISM Dhanbad,Mining Engineering with MBA,1536,SC
+IIT Delhi,Textile Technology,1546,OBC
+IIT Delhi,Biochemical,1552,OBC
+ISM Dhanbad,Environmental Engineering,1553,SC
+IIT Madras,Mechanical (Thermal Engineering),1554,GENERAL
+IIT (BHU) Varanasi,Mining Engineering,1566,SC
+IIT Bombay,Metallurgical and Materials Engineering *,1569,OBC
+IIT Kharagpur,Mathematics & Computing,1573,GENERAL
+IIT Madras,Engineering Design(Biomedical),1605,OBC
+IIT Kanpur,Aerospace Engineering,1618,GENERAL
+IIT Kharagpur,Mining Safety Engineering,1619,SC
+ISM Dhanbad,Petroleum Engineering,1622,OBC
+IIT Guwahati,Design,1626,OBC
+IIT Kharagpur,Chemical Engineering,1627,GENERAL
+IIT Madras,Metallurgical Engineering,1630,OBC
+ISM Dhanbad,Mineral Engineering (with M.Tech in Mineral),1631,SC
+ISM Dhanbad,Civil Engineering,1640,OBC
+IIT Hydrabad,Engineering Science,1649,OBC
+IIT Jodhpur,Biologically-inspired,1650,SC
+IIT Kharagpur,Biotechnology & Biochemical Engineering,1670,OBC
+IIT (BHU) Varanasi,Mathematics & Computing,1672,GENERAL
+ISM Dhanbad,Computer Science & Engineering,1681,OBC
+IIT (BHU) Varanasi,Bioengineering,1684,SC
+IIT Kharagpur,Applied Geology,1689,SC
+ISM Dhanbad,Mining Machinery,1698,OBC
+IIT (BHU) Varanasi,Biochemical Engineering,1703,SC
+IIT Kharagpur,Industrial Engineering (M. Tech in Industrial Engineering & Management),1704,OBC
+IIT Gandhinagar,Civil Engineering,1713,OBC
+IIT (BHU) Varanasi,Electrical Engineering,1732,GENERAL
+IIT (BHU) Varanasi,Industrial Chemistry,1743,SC
+IIT Hydrabad,Engineering Physics,1753,OBC
+IIT Kharagpur,Exploration Geophysics,1764,SC
+IIT indore,Computer Engineering,1764,GENERAL
+ISM Dhanbad,Applied Geology,1765,SC
+IIT Guwahati,Engineering Physics,1765,OBC
+IIT (BHU) Varanasi,Pharmaceutics,1766,SC
+IIT Bhubaneshwar,Civil Engineering,1769,OBC
+ISM Dhanbad,Applied Geophysics,1775,SC
+IIT (BHU) Varanasi,Engineering Physics,1776,OBC
+IIT Bombay,Metallurgical and Materials Engineering *,1777,OBC
+IIT Roorkee,Architecture,1781,SC
+IIT (BHU) Varanasi,Ceramic Engineering,1788,OBC
+IIT (BHU) Varanasi,Pharmaceutics,1789,SC
+IIT Jodhpur,Electrical Engineering,1795,OBC
+IIT Kharagpur,Ocean Engineering & Naval Architecture Engineering,1796,OBC
+IIT Kharagpur,Manufacturing Science (M. Tech in Industrial Engineering & Management),1812,OBC
+IIT Madras,Engineering Design(Automotive),1822,GENERAL
+IIT Mandi,Electrical Engineering,1824,OBC
+IIT Hydrabad,Chemical Engineering,1833,OBC
+IIT Roorkee,Metallurgical Engineering,1838,OBC
+IIT Guwahati,Chemical Technology,1847,OBC
+IIT Roorkee,Geophysical Technology,1854,OBC
+IIT Madras,Naval Architecture & Ocean Engineering,1863,OBC
+IIT Madras,Metallurgical & Material Engineering,1903,OBC
+IIT Madras,Naval Architecture & Ocean Engineering *,1919,OBC
+IIT Roorkee,Chemical Engineering,1929,GENERAL
+IIT Kharagpur,Quality Engineering Design& Manufacturing,1960,OBC
+IIT Delhi,Textile Technology,1967,GENERAL
+IIT Kharagpur,Agricultural & Food Engineering,1996,OBC
+IIT Kharagpur,Civil Engineering,1999,GENERAL
+ISM Dhanbad,Petroleum (with M. Tech in Petroleum Management),2004,OBC
+IIT Roorkee,Applied Mathematics,2019,OBC
+IIT Kharagpur,Manufacturing Engineering,2030,GENERAL
+IIT Gandhinagar,Chemical Engineering,2036,OBC
+IIT Kharagpur,Metallurgical and Materials Engineering *,2051,OBC
+IIT Madras,Physics,2060,GENERAL
+IIT (BHU) Varanasi,Mechanical Engineering,2075,GENERAL
+IIT (BHU) Varanasi,Metallurgical Engineering,2078,OBC
+IIT Kharagpur,Industrial Engineering,2100,GENERAL
+IIT Gandhinagar,Mechanical Engineering,2108,GENERAL
+IIT Jodhpur,Systems Science,2127,OBC
+ISM Dhanbad,Chemical Engineering,2128,OBC
+IIT Madras,Biological Engineering,2139,OBC
+IIT Kharagpur,Ocean Engineering & Naval Architecture,2145,GENERAL
+ISM Dhanbad,Electronics & Instrumentation Engineering,2178,OBC
+ISM Dhanbad,Mathematics & Computing,2194,OBC
+IIT Hydrabad,Mechanical Engineering,2195,GENERAL
+IIT Madras,Physics,2196,OBC
+IIT Roorkee,Pulp & Paper Engineering,2210,OBC
+IIT Gandhinagar,Electrical Engineering,2216,GENERAL
+IIT (BHU) Varanasi,Mining Engineering,2230,OBC
+IIT Kharagpur,Biotechnology & Biochemical Engineering,2243,OBC
+IIT Kharagpur,Mining Engineering,2244,OBC
+IIT Patna,Chemical Science and Technology,2259,OBC
+IIT Kharagpur,Mining Safety Engineering,2268,OBC
+IIT (BHU) Varanasi,Electrical (Power Electronics) Engineering,2278,GENERAL
+IIT Kanpur,Biological Sc. & Bioengineering,2302,OBC
+IIT Kharagpur,Economics,2369,OBC
+IIT Kanpur,Chemistry,2390,GENERAL
+IIT Roorkee,Biotechnology,2396,OBC
+IIT Kanpur,Materials Science Engineering,2406,GENERAL
+IIT Madras,Aerospace,2451,GENERAL
+IIT (BHU) Varanasi,Material Science,2467,OBC
+IIT (BHU) Varanasi,Metallurgical Engineering,2476,OBC
+IIT Kharagpur,Chemical Engineering,2477,GENERAL
+IIT Kharagpur,Exploration Geophysics,2483,OBC
+IIT Kanpur,Chemistry,2494,OBC
+IIT Kharagpur,Aerospace Engineering,2499,GENERAL
+IIT Delhi,Biochemical,2501,GENERAL
+IIT Bombay,Metallurgical and Materials Engineering *,2502,GENERAL
+IIT Mandi,Computer Engineering,2536,GENERAL
+IIT Madras,Civil (any specialization),2540,GENERAL
+IIT Guwahati,Engineering Physics,2582,GENERAL
+ISM Dhanbad,Mining Engineering,2597,OBC
+IIT Madras,Metallurgical Engineering,2632,GENERAL
+IIT Kharagpur,Civil (any specialization),2633,GENERAL
+IIT Roorkee,Polymer Science Technology,2641,OBC
+IIT Patna,Computer Science and Engineering,2653,GENERAL
+IIT Madras,Civil (Infrastructural),2662,GENERAL
+IIT Madras,Biological Sciences,2671,OBC
+IIT Guwahati,Biotechnology,2676,OBC
+IIT Guwahati,Chemical Engineering,2676,GENERAL
+IIT (BHU) Varanasi,Industrial Chemistry,2679,OBC
+ISM Dhanbad,Mineral Engineering,2694,OBC
+IIT (BHU) Varanasi,Mining Engineering,2726,OBC
+IIT Kharagpur,Applied Geology,2757,OBC
+IIT Bombay,Metallurgical and Materials Engineering *,2757,GENERAL
+IIT Roorkee,Process Engineering with MBA,2758,OBC
+IIT Kharagpur,Agriculture & Food *,2761,OBC
+IIT Hydrabad,Engineering Science,2772,GENERAL
+IIT Roorkee,Physics,2776,OBC
+IIT Kharagpur,Aerospace,2792,GENERAL
+IIT (BHU) Varanasi,Ceramic Engineering,2815,OBC
+IIT Roorkee,Production Engineering,2817,GENERAL
+ISM Dhanbad,Mineral Engineering (with M.Tech in Mineral),2822,OBC
+IIT Madras,Aerospace *,2822,GENERAL
+ISM Dhanbad,Mining Engineering with MBA,2828,OBC
+ISM Dhanbad,Environmental Engineering,2842,OBC
+IIT Roorkee,Geological Technology,2867,OBC
+IIT Madras,Civil Engineering *,2873,GENERAL
+IIT Jodhpur,Biologically-inspired,2879,OBC
+IIT (BHU) Varanasi,Biochemical Engineering,2889,OBC
+ISM Dhanbad,Computer Engineering,2913,GENERAL
+IIT (BHU) Varanasi,Bioengineering,2947,OBC
+IIT (BHU) Varanasi,Pharmaceutics,2972,OBC
+IIT Ropar,Electrical Engineering,2973,GENERAL
+IIT (BHU) Varanasi,Metallurgical Engineering,2977,GENERAL
+IIT Guwahati,Civil Engineering,2990,GENERAL
+IIT Hydrabad,Chemical Engineering,3010,GENERAL
+IIT Kharagpur,Metallurgical Engineering,3017,GENERAL
+IIT indore,Mechanical Engineering,3018,GENERAL
+IIT (BHU) Varanasi,Civil Engineering,3025,GENERAL
+IIT Ropar,Mechanical Engineering,3033,GENERAL
+IIT Bhubaneshwar,Computer Engineering,3035,GENERAL
+IIT Kharagpur,Manufacturing Science (M. Tech in Industrial Engineering & Management),3040,GENERAL
+ISM Dhanbad,Applied Geophysics,3046,OBC
+IIT indore,Electrical Engineering,3052,GENERAL
+IIT Kharagpur,Chemistry,3090,OBC
+IIT Madras,Engineering Design(Biomedical),3092,GENERAL
+IIT Bhubaneshwar,Mechanical Engineering,3094,GENERAL
+IIT (BHU) Varanasi,Chemical Engineering,3100,GENERAL
+IIT Madras,Biological Engineering,3124,GENERAL
+ISM Dhanbad,Electronics & Communication Engineering,3133,GENERAL
+IIT Hydrabad,Civil Engineering,3134,GENERAL
+ISM Dhanbad,Mechanical Engineering,3141,GENERAL
+ISM Dhanbad,Applied Geology,3149,OBC
+IIT Roorkee,Biotechnology,3192,GENERAL
+IIT Kharagpur,Industrial Engineering (M. Tech in Industrial Engineering & Management),3233,GENERAL
+IIT (BHU) Varanasi,Pharmaceutics,3237,OBC
+IIT Madras,Naval Arch. & Ocean Engineering,3274,GENERAL
+IIT Kharagpur,Quality Engineering Design& Manufacturing,3285,GENERAL
+IIT (BHU) Varanasi,Civil with M. Tech in Structural Engineering,3314,GENERAL
+IIT Kanpur,Biological Sc. & Bioengineering,3325,GENERAL
+IIT Kharagpur,Metallurgical and Materials Engineering *,3340,GENERAL
+IIT Bhubaneshwar,Electrical Engineering,3396,GENERAL
+IIT Kharagpur,Economics,3416,GENERAL
+IIT Kharagpur,Biotechnology & Biochemical Engineering,3421,GENERAL
+IIT Madras,Metallurgical & Material Engineering,3430,GENERAL
+IIT Jodhpur,Electrical Engineering,3474,GENERAL
+IIT Madras,Naval Architecture & Ocean Engineering *,3484,GENERAL
+IIT Mandi,Mechanical  Engineering,3486,GENERAL
+IIT Guwahati,Chemical Technology,3494,GENERAL
+ISM Dhanbad,Mining Engineering,3504,GENERAL
+IIT Roorkee,Applied Mathematics,3538,GENERAL
+IIT Roorkee,Metallurgical Engineering,3572,GENERAL
+ISM Dhanbad,Electrical Engineering,3591,GENERAL
+IIT Guwahati,Design,3594,GENERAL
+IIT Kharagpur,Biotechnology & Biochemical Engineering,3725,GENERAL
+IIT Madras,Naval Architecture & Ocean Engineering,3777,GENERAL
+IIT Jodhpur,Mechanical Engineering,3780,GENERAL
+IIT Kharagpur,Architecture,3849,OBC
+IIT Roorkee,Architecture,3963,OBC
+IIT Kharagpur,Mining Engineering,3976,GENERAL
+IIT Gandhinagar,Chemical Engineering,4066,GENERAL
+ISM Dhanbad,Petroleum Engineering,4128,GENERAL
+IIT Kharagpur,Agricultural & Food Engineering,4139,GENERAL
+IIT Patna,Electrical Engineering,4149,GENERAL
+IIT Mandi,Electrical Engineering,4163,GENERAL
+IIT (BHU) Varanasi,Engineering Physics,4209,GENERAL
+IIT Roorkee,Process Engineering with MBA,4214,GENERAL
+IIT Gandhinagar,Civil Engineering,4280,GENERAL
+IIT Hydrabad,Engineering Physics,4312,GENERAL
+ISM Dhanbad,Computer Science & Engineering,4358,GENERAL
+IIT Patna,Mechanical Engineering,4483,GENERAL
+IIT Kharagpur,Ocean Engineering & Naval Architecture Engineering,4536,GENERAL
+IIT (BHU) Varanasi,Industrial Chemistry,4561,GENERAL
+IIT Bhubaneshwar,Civil Engineering,4690,GENERAL
+IIT Roorkee,Geophysical Technology,4701,GENERAL
+IIT Kharagpur,Agriculture & Food *,4732,GENERAL
+IIT Kharagpur,Architecture,4826,GENERAL
+IIT Kharagpur,Exploration Geophysics,4827,GENERAL
+ISM Dhanbad,Chemical Engineering,4940,GENERAL
+ISM Dhanbad,Civil Engineering,4960,GENERAL
+IIT Guwahati,Biotechnology,5004,GENERAL
+IIT Kharagpur,Applied Geology,5012,GENERAL
+IIT Jodhpur,Systems Science,5030,GENERAL
+IIT Madras,Biological Sciences,5034,GENERAL
+IIT Roorkee,Physics,5119,GENERAL
+IIT (BHU) Varanasi,Material Science,5175,GENERAL
+IIT (BHU) Varanasi,Metallurgical Engineering,5184,GENERAL
+IIT Patna,Chemical Science and Technology,5215,GENERAL
+IIT (BHU) Varanasi,Mining Engineering,5264,GENERAL
+IIT Kharagpur,Mining Engineering,5288,GENERAL
+IIT (BHU) Varanasi,Ceramic Engineering,5313,GENERAL
+IIT Kharagpur,Chemistry,5410,GENERAL
+IIT Roorkee,Architecture,5423,GENERAL
+IIT Roorkee,Polymer Science Technology,5463,GENERAL
+ISM Dhanbad,Electronics & Instrumentation Engineering,5671,GENERAL
+ISM Dhanbad,Environmental Engineering,5677,GENERAL
+ISM Dhanbad,Mathematics & Computing,5770,GENERAL
+IIT Kharagpur,Mining Safety Engineering,5795,GENERAL
+IIT Jodhpur,Biologically-inspired,5813,GENERAL
+IIT (BHU) Varanasi,Mining Engineering,5876,GENERAL
+IIT Roorkee,Geological Technology,5915,GENERAL
+ISM Dhanbad,Mining Engineering,5937,GENERAL
+ISM Dhanbad,Petroleum (with M. Tech in Petroleum Management),5994,GENERAL
+IIT Roorkee,Pulp & Paper Engineering,6070,GENERAL
+ISM Dhanbad,Mining Machinery,6296,GENERAL
+IIT (BHU) Varanasi,Biochemical Engineering,6314,GENERAL
+IIT (BHU) Varanasi,Bioengineering,6317,GENERAL
+ISM Dhanbad,Applied Geology,6378,GENERAL
+IIT (BHU) Varanasi,Ceramic Engineering,6535,GENERAL
+ISM Dhanbad,Mining Engineering with MBA,6571,GENERAL
+ISM Dhanbad,Mineral Engineering,6592,GENERAL
+ISM Dhanbad,Applied Geophysics,6765,GENERAL
+ISM Dhanbad,Mineral Engineering (with M.Tech in Mineral),6868,GENERAL
+IIT (BHU) Varanasi,Pharmaceutics,7043,GENERAL
+IIT (BHU) Varanasi,Pharmaceutics,7076,GENERAL

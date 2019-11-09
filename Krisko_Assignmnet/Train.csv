@@ -1,0 +1,296 @@
+,IIT Bombay,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8
+0,Branch Name ,General ,,OBC,,SC,,ST,
+1,,Open,Close,Open,Close,Open,Close,Open,Close
+2,Aerospace Engineering,405,1674,256,811,46,334,154,266
+3,Chemical Engineering,727,1240,427,845,151,544,158,315
+4,Civil Engineering,400,1688,379,873,107,372,69,96
+5,Computer Engineering,1,59,8,38,2,19,3,21
+6,Electrical Engineering,7,135,34,80,12,64,2,18
+7,Engineering Physics,206,1090,455,815,15,490,151,426
+8,Mechanical Engineering,24,488,88,231,29,105,22,52
+9,Metallurgical Science,1243,2790,996,1716,526,982,239,522
+10,Electrical Engineering *,192,435,57,358,115,305,116,123
+11,Electrical (in Microelectronics) Engineering,137,292,100,278,143,206,4,105
+12,Energy (M. Tech in Energy Systems) Engineering,932,1816,790,1126,721,796,335,462
+13,Engineering Physics *,963,1371,809,891,715,739,322,322
+14,Mechanical (M. Tech in Computer Aided Design),505,624,267,400,195,203,124,140
+15,Mechanical (M. Tech in Computer Integrated Manufacturing),625,720,338,421,209,249,144,145
+16,Metallurgical and Materials Engineering *,2502,3073,1569,1840,1025,1089,343,343
+17,Metallurgical and Materials Engineering *,2757,3084,1777,1865,1010,1016,515,515
+18,,,,,,,,,
+19,,,,,,,,,
+20,IIT Delhi,,,,,,,,
+21,Branch Name ,General ,,OBC,,SC,,ST,
+22,,Open,Close,Open,Close,Open,Close,Open,Close
+23,Chemical Engineering,725,1402,303,924,294,570,209,317
+24,Civil Engineering,942,1962,320,791,52,353,17,57
+25,Computer Engineering,4,109,28,69,10,36,5,34
+26,Electrical Engineering,80,299,44,165,16,92,10,39
+27,Electrical (Power & Automation) Engineering,374,757,197,432,131,265,81,108
+28,Engineering Physics,859,2233,1030,1524,219,713,402,565
+29,Mechanical Engineering,272,630,90,297,31,129,8,63
+30,Production Engineering,826,1881,837,1237,371,658,196,419
+31,Textile Technology,1967,4321,1546,2336,599,1332,491,607
+32,Biochemical,2501,4360,1552,2399,710,1321,642,720
+33,Chemical Engineering,1405,2134,998,1342,413,674,364,393
+34,Computer Science & Engineering,66,217,107,202,72,161,48,106
+35,Mathematics & Computing,357,786,448,646,501,731,377,558
+36,,,,,,,,,
+37,,,,,,,,,
+38,IIT Kharagpur,,,,,,,,
+39,Branch Name ,General ,,OBC,,SC,,ST,
+40,,Open,Close,Open,Close,Open,Close,Open,Close
+41,Aerospace Engineering,2499,2786,628,1247,58,394,273,302
+42,Agricultural & Food Engineering,4139,5568,1996,2619,1086,1486,580,701
+43,Biotechnology & Biochemical Engineering,3421,5092,2243,2556,1167,1363,613,667
+44,Chemical Engineering,1627,2448,926,1304,578,734,375,452
+45,Civil Engineering,1999,2874,904,1127,420,566,103,179
+46,Computer Engineering,240,396,104,191,84,125,49,86
+47,Electrical Engineering,580,1001,135,426,150,307,92,133
+48,Electronics &Electrical Engineering,241,824,127,385,147,322,76,138
+49,Industrial Engineering,2100,3147,1330,1682,603,875,456,609
+50,Instrumentation Engineering,1277,1907,806,1113,619,822,342,409
+51,Manufacturing Engineering,2030,2916,1380,1671,1047,1148,616,626
+52,Mechanical Engineering,971,1231,351,505,184,259,97,132
+53,Metallurgical Engineering,3017,3878,1532,2015,883,1130,548,604
+54,Mining Engineering,3976,5028,1480,2190,772,1223,352,591
+55,Ocean Engineering & Naval Architecture,2145,4512,1456,2147,1231,1350,535,636
+56,Architecture,4826,7128,3849,4185,1357,2077,795,795
+57,Aerospace,2792,3279,1073,1396,492,670,347,347
+58,Agriculture & Food *,4732,6549,2761,2987,1437,1657,747,853
+59,Biotechnology & Biochemical Engineering,3725,5957,1670,2798,1502,1559,801,815
+60,Chemical Engineering,2477,3076,1462,1564,529,865,477,497
+61,Civil (any specialization),2633,3276,1150,1423,496,621,271,293
+62,Computer Science & Engineering,416,577,218,393,140,319,178,220
+63,Electrical Engineering *,1115,1265,506,616,360,453,214,217
+64,Electronics and Electrical Communication Engineering,809,1098,205,626,392,454,185,270
+65,Industrial Engineering (M. Tech in Industrial Engineering & Management),3233,3763,1704,1802,820,1171,619,619
+66,Manufacturing Science (M. Tech in Industrial Engineering & Management),3040,3825,1812,1875,935,1143,590,590
+67,Mechanical (M. Tech in any specialization),1303,1794,536,782,159,399,43,256
+68,Metallurgical and Materials Engineering *,3340,4354,2051,2251,988,1147,577,577
+69,Mining Engineering,5288,5717,2244,2480,1406,1555,673,673
+70,Mining Safety Engineering,5795,6275,2268,2639,1619,1635,765,765
+71,Ocean Engineering & Naval Architecture Engineering,4536,5267,1796,2317,892,1416,655,699
+72,Quality Engineering Design& Manufacturing,3285,4002,1960,2121,1144,1246,649,649
+73,Applied Geology,5012,6770,2757,3187,1689,1857,0,0
+74,Chemistry,5410,6812,3090,3222,971,1732,806,806
+75,Economics,3416,4944,2369,2965,1210,1812,0,0
+76,Exploration Geophysics,4827,6078,2483,3093,1764,1858,0,0
+77,Mathematics & Computing,1573,2713,955,1528,824,1298,754,800
+78,Physics,3207,5523,2568,2964,597,1477,0,
+79,,,,,,,,,
+80,,,,,,,,,
+81,IIT Kanpur,,,,,,,,
+82,Branch Name ,General ,,OBC,,SC,,ST,
+83,,Open,Close,Open,Close,Open,Close,Open,Close
+84,Aerospace Engineering,1618,2618,644,989,270,446,150,246
+85,Biological Sc. & Bioengineering,3325,4873,2302,2616,1344,1493,482,751
+86,Chemical Engineering,1018,2112,726,1208,564,709,283,410
+87,Civil Engineering,1363,2500,531,1069,227,475,104,155
+88,Computer Engineering,120,307,42,151,42,83,36,88
+89,Electrical Engineering,181,703,167,344,104,218,59,107
+90,Materials Science Engineering,2406,4005,1197,2168,736,1308,504,698
+91,Mechanical Engineering,285,976,302,454,135,235,30,109
+92,Chemistry,2390,6248,2494,3089,1391,1592,0,0
+93,Economics,1099,3406,1511,2324,445,1134,623,809
+94,Mathematics & Scientific Computing,660,2259,729,1579,1077,1353,669,706
+95,Physics,194,3089,549,2520,926,1369,799,799
+96,,,,,,,,,
+97,,,,,,,,,
+98,IIT Madras,,,,,,,,
+99,Branch Name ,General ,,OBC,,SC,,ST,
+100,,Open,Close,Open,Close,Open,Close,Open,Close
+101,Aerospace Engineering,1521,2444,500,1021,304,458,225,266
+102,Chemical Engineering,1227,2227,424,1259,416,694,344,387
+103,Civil Engineering,1471,2609,537,986,258,513,146,195
+104,Computer Engineering,63,212,52,102,17,48,23,26
+105,Electrical Engineering,91,602,71,248,68,175,9,73
+106,Engineering Physics,100,2004,964,1524,28,539,518,536
+107,Mechanical Engineering,54,981,155,407,56,208,42,115
+108,Metallurgical Engineering,2632,3347,1630,1909,660,960,395,543
+109,Naval Arch. & Ocean Engineering,3274,3749,1318,1699,691,1094,181,492
+110,Aerospace,2451,2861,725,1256,477,477,193,193
+111,Aerospace *,2822,2932,1400,1454,588,588,381,381
+112,Biological Engineering,3124,5079,2139,2526,1015,1300,707,751
+113,Chemical Engineering,253,2595,1320,1439,758,827,445,445
+114,Civil Engineering *,2873,3030,715,1357,153,153,0,0
+115,Civil (Infrastructural),2662,3046,992,1303,563,621,286,286
+116,Civil (any specialization),2540,3076,1031,1283,276,628,299,299
+117,Computer Science & Engineering,304,470,148,251,114,254,113,191
+118,Electrical Engineering,657,1113,278,502,286,383,204,238
+119,Electrical Engineering *,1008,1379,543,602,339,459,0,0
+120,Engineering Design(Automotive),1822,2877,1135,1578,749,966,302,447
+121,Engineering Design(Biomedical),3092,3652,1605,1978,1012,1156,620,620
+122,Mechanical (Thermal Engineering),1554,1737,629,694,483,558,278,279
+123,Mechanical (Intelligent Manufacturing),1033,1548,481,634,460,534,256,265
+124,Mechanical (Product Design),795,1552,425,642,318,467,212,259
+125,Metallurgical & Material Engineering,3430,3767,1903,1984,990,1089,599,599
+126,Naval Architecture & Ocean Engineering,3777,4192,1863,2080,1108,1149,0,0
+127,Naval Architecture & Ocean Engineering *,3484,4007,1919,2037,1208,1208,546,546
+128,Biological Sciences,5034,6167,2671,2894,1504,1603,764,841
+129,Physics,2060,3078,2196,2415,1112,1112,564,564
+130,,,,,,,,,
+131,,,,,,,,,
+132,IIT Roorkee,,,,,,,,
+133,Branch Name ,General ,,OBC,,SC,,ST,
+134,,Open,Close,Open,Close,Open,Close,Open,Close
+135,Biotechnology,3192,5849,2396,2747,1123,1591,717,760
+136,Chemical Engineering,1929,3241,1273,1556,743,866,376,512
+137,Civil Engineering,1523,3039,856,1241,367,598,114,195
+138,Computer Engineering,379,766,212,377,178,306,111,167
+139,Electrical Engineering,1039,1741,459,723,240,440,112,183
+140,Electronics & Communication Engineering,878,1338,460,763,347,487,172,255
+141,Mechanical Engineering,1117,1911,445,728,169,331,68,192
+142,Metallurgical Engineering,3572,5146,1838,2470,1191,1366,552,709
+143,Polymer Science Technology,5463,6470,2641,2919,1514,1601,812,851
+144,Production Engineering,2817,3648,1245,1717,799,1050,453,554
+145,Pulp & Paper Engineering,6070,6911,2210,3025,1384,1647,0,0
+146,Architecture,5423,7408,3963,4167,1781,1965,0,0
+147,Geological Technology,5915,6437,2867,3096,1402,1705,848,848
+148,Geophysical Technology,4701,6014,1854,2906,1376,1709,0,0
+149,Process Engineering with MBA,4214,6654,2758,3022,1289,1734,838,849
+150,Applied Mathematics,3538,5015,2019,2935,1453,1757,842,842
+151,Physics,5119,6088,2776,3097,1495,1716,734,793
+152,,,,,,,,,
+153,,,,,,,,,
+154,IIT Guwahati,,,,,,,,
+155,Branch Name ,General ,,OBC,,SC,,ST,
+156,,Open,Close,Open,Close,Open,Close,Open,Close
+157,Biotechnology,5004,6361,2676,2914,1159,1639,394,758
+158,Chemical Engineering,2676,4057,1463,1754,733,1003,276,529
+159,Chemical Technology,3494,4793,1847,2258,878,1293,559,582
+160,Civil Engineering,2990,4039,1246,1454,618,779,215,285
+161,Computer Engineering,739,1130,363,610,127,448,187,279
+162,Electronics & Communication Engineering,1149,1906,673,949,473,666,275,336
+163,Electronics & Electrical Engineering,1426,2193,559,962,495,648,139,256
+164,Engineering Physics,2582,4393,1765,2385,962,1208,598,630
+165,Mathematics Computing,1238,2368,756,1363,771,1133,412,551
+166,Mechanical Engineering,1346,2541,511,1000,326,555,197,242
+167,Design,3594,5544,1626,2642,1333,1745,581,691
+168,,,,,,,,,
+169,,,,,,,,,
+170,IIT Bhubaneshwar,,,,,,,,
+171,Branch Name ,General ,,OBC,,SC,,ST,
+172,,Open,Close,Open,Close,Open,Close,Open,Close
+173,Civil Engineering,4690,5289,1769,2088,919,1121,330,359
+174,Computer Engineering,3035,4097,907,1483,681,907,350,441
+175,Electrical Engineering,3396,4371,1059,1723,854,957,284,367
+176,Mechanical Engineering,3094,4674,1272,1727,680,862,177,397
+177,,,,,,,,,
+178,,,,,,,,,
+179,IIT Mandi,,,,,,,,
+180,Branch Name ,General ,,OBC,,SC,,ST,
+181,,Open,Close,Open,Close,Open,Close,Open,Close
+182,Computer Engineering,2536,3768,1094,1814,765,900,476,538
+183,Electrical Engineering,4163,4612,1824,2064,995,1105,208,423
+184,Mechanical  Engineering,3486,4773,1287,2057,972,1069,411,434
+185,,,,,,,,,
+186,,,,,,,,,
+187,IIT indore,,,,,,,,
+188,Branch Name ,General ,,OBC,,SC,,ST,
+189,,Open,Close,Open,Close,Open,Close,Open,Close
+190,Computer Engineering,1764,2989,1068,1417,342,706,332,390
+191,Electrical Engineering,3052,3842,1423,1719,880,931,182,329
+192,Mechanical Engineering,3018,4009,1501,1733,840,951,365,388
+193,,,,,,,,,
+194,,,,,,,,,
+195,IIT Hydrabad,,,,,,,,
+196,Branch Name ,General ,,OBC,,SC,,ST,
+197,,Open,Close,Open,Close,Open,Close,Open,Close
+198,Chemical Engineering,3010,4473,1833,2075,793,1132,547,560
+199,Civil Engineering,3134,4165,1083,1610,676,788,306,345
+200,Computer Engineering,635,1640,323,633,256,517,176,337
+201,Electrical Engineering,1249,2523,492,1014,604,696,297,307
+202,Engineering Physics,4312,4476,1753,2375,1006,1006,716,716
+203,Engineering Science,2772,4198,1649,2239,920,1245,583,696
+204,Mechanical Engineering,2195,2946,599,1116,560,673,190,304
+205,,,,,,,,,
+206,,,,,,,,,
+207,IIT Jodhpur,,,,,,,,
+208,Branch Name ,General ,,OBC,,SC,,ST,
+209,,Open,Close,Open,Close,Open,Close,Open,Close
+210,Computer Engineering,1420,3468,1278,1678,336,849,218,480
+211,Electrical Engineering,3474,4524,1795,1947,667,939,334,369
+212,Mechanical Engineering,3780,4698,895,1995,532,893,391,418
+213,Systems Science,5030,6239,2127,2808,1444,1710,642,792
+214,Biologically-inspired,5813,7064,2879,3109,1650,1738,820,850
+215,,,,,,,,,
+216,,,,,,,,,
+217,IIT Gandhinagar,,,,,,,,
+218,Branch Name ,General ,,OBC,,SC,,ST,
+219,,Open,Close,Open,Close,Open,Close,Open,Close
+220,Chemical Engineering,4066,4926,2036,2252,521,1178,457,531
+221,Civil Engineering,4280,4864,1713,2081,845,925,236,294
+222,Electrical Engineering,2216,3213,1038,1529,735,880,100,346
+223,Mechanical Engineering,2108,3491,1254,1350,553,840,269,403
+224,,,,,,,,,
+225,,,,,,,,,
+226,IIT Patna,,,,,,,,
+227,Branch Name ,General ,,OBC,,SC,,ST,
+228,,Open,Close,Open,Close,Open,Close,Open,Close
+229,Chemical Science and Technology,5215,5686,2259,2435,1270,1337,578,626
+230,Computer Science and Engineering,2653,4096,881,1823,782,1038,460,518
+231,Electrical Engineering,4149,4997,1387,2056,973,1119,448,469
+232,Mechanical Engineering,4483,5084,1206,2025,938,1082,136,433
+233,,,,,,,,,
+234,,,,,,,,,
+235,IIT Ropar,,,,,,,,
+236,Branch Name ,General ,,OBC,,SC,,ST,
+237,,Open,Close,Open,Close,Open,Close,Open,Close
+238,Computer Engineering,1461,2484,443,1062,173,556,308,421
+239,Electrical Engineering,2973,3710,1170,1837,746,976,374,406
+240,Mechanical Engineering,3033,4075,1119,1650,426,905,399,417
+241,,,,,,,,,
+242,,,,,,,,,
+243,IIT (BHU) Varanasi,,,,,,,,
+244,Branch Name ,General ,,OBC,,SC,,ST,
+245,,Open,Close,Open,Close,Open,Close,Open,Close
+246,Ceramic Engineering,5313,6615,1788,2938,1508,1666,730,821
+247,Chemical Engineering,3100,4289,1458,2014,936,1226,485,600
+248,Civil Engineering,3025,3751,1309,1535,652,792,229,261
+249,Computer Engineering,754,1447,435,717,340,441,296,311
+250,Electrical Engineering,1732,2557,740,1157,568,704,213,245
+251,Electronics Engineering,1469,2306,803,1225,510,780,310,356
+252,Mechanical Engineering,1513,2906,735,1128,387,635,249,327
+253,Metallurgical Engineering,2977,5644,2078,2511,1361,1458,632,718
+254,Mining Engineering,5264,6830,2230,2713,1175,1499,373,736
+255,Pharmaceutics,7043,7419,2972,3329,1766,1915,0,0
+256,Biochemical Engineering,6314,6955,2889,3058,1703,1741,845,845
+257,Bioengineering,6317,6999,2947,3065,1684,1737,830,830
+258,Ceramic Engineering,6535,6802,2815,3051,1504,1687,803,844
+259,Civil with M. Tech in Structural Engineering,3314,3962,1498,1633,794,843,339,351
+260,Computer Science & Engineering,1456,1608,761,771,520,562,357,357
+261,Electrical (Power Electronics) Engineering,2278,2957,1223,1371,798,821,341,381
+262,Material Science,5175,6056,2467,2719,906,1534,634,811
+263,Mechanical Engineering,2075,3005,1147,1295,661,764,316,326
+264,Metallurgical Engineering,5184,5958,2476,2629,1470,1491,695,764
+265,Mining Engineering,5876,6978,2726,2826,1566,1587,749,770
+266,Engineering Physics,4209,5172,1776,2572,1220,1372,539,685
+267,Industrial Chemistry,4561,6715,2679,2977,1743,1780,0,0
+268,Mathematics & Computing,1672,2394,840,1628,1204,1215,668,697
+269,Pharmaceutics,7076,7370,3237,3330,1789,1852,0,0
+270,,,,,,,,,
+271,,,,,,,,,
+272,ISM Dhanbad,,,,,,,,
+273,Branch Name ,General ,,OBC,,SC,,ST,
+274,,Open,Close,Open,Close,Open,Close,Open,Close
+275,Chemical Engineering,4940,6278,2128,2387,1249,1335,601,622
+276,Civil Engineering,4960,6119,1640,2166,873,1214,252,379
+277,Computer Engineering,2913,4559,968,1666,855,1106,435,570
+278,Electrical Engineering,3591,5741,1517,2089,838,1202,372,467
+279,Electronics & Communication Engineering,3133,5634,952,2120,1000,1284,401,510
+280,Environmental Engineering,5677,7053,2842,3045,1553,1712,785,856
+281,Mechanical Engineering,3141,5583,1217,1880,647,1096,340,483
+282,Mineral Engineering,6592,7068,2694,2959,1518,1685,739,813
+283,Mining Engineering,3504,6753,1411,2578,810,1492,527,664
+284,Mining Machinery,6296,6963,1698,2751,1515,1546,738,753
+285,Petroleum Engineering,4128,5946,1622,2355,400,1410,461,676
+286,Electronics & Instrumentation Engineering,5671,6091,2178,2316,1286,1327,530,553
+287,Computer Science & Engineering,4358,5041,1681,1799,912,1183,596,596
+288,Mineral Engineering (with M.Tech in Mineral),6868,7115,2822,2998,1631,1717,854,854
+289,Mining Engineering,5937,7026,2597,2740,1533,1589,727,727
+290,Petroleum (with M. Tech in Petroleum Management),5994,6399,2004,2436,1290,1421,605,605
+291,Mathematics & Computing,5770,6481,2194,2658,1297,1411,0,0
+292,Mining Engineering with MBA,6571,7049,2828,2893,1536,1663,790,790
+293,Applied Geology,6378,7157,3149,3223,1765,1788,0,0
+294,Applied Geophysics,6765,7155,3046,3127,1775,1778,0,0

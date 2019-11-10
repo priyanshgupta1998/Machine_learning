@@ -1,0 +1,113 @@
+itemname,availabletime
+idli,"7:00 - 11:00, 17:00 - 22:00"
+vada,"7:00 - 11:00, 17:00 - 22:01"
+rava idli,"7:00 - 11:00, 17:00 - 22:02"
+set dosa,"7:00 - 11:00, 17:00 - 22:03"
+ghee dosa,"7:00 - 11:00, 17:00 - 22:04"
+pongal,"7:00 - 11:00, 17:00 - 22:05"
+medu vada,"7:00 - 11:00, 17:00 - 22:06"
+upma,"7:00 - 11:00, 17:00 - 22:07"
+idiyappam,"7:00 - 11:00, 17:00 - 22:08"
+uttapam,"7:00 - 11:00, 17:00 - 22:09"
+puttu,"7:00 - 11:00, 17:00 - 22:10"
+rice bath,"7:00 - 11:00, 17:00 - 22:11"
+orderid,restaurantid,orderedItems,billamount,timestamp
+B424Z2019102110352551,kanti sagar,"[{‘itemname’: ‘vada’, ‘quantity’: 2, ‘price’: 40}]",40,2019-10-21 7:00:23
+B424Z2019102110352582,hatti kaapi,"[{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}, {‘itemname’: ‘medu vada’, ‘quantity’: 1, ‘price’: 15}]",35,2019-10-21 7:02:24
+B424Z2019102110352543,kanti sagar,"[{‘itemname’: ‘Idli’, ‘quantity’: 1, ‘price’: 20}]",20,2019-10-21 7:04:24
+B424Z2019102110352548,kanti sagar,"[{‘itemname’: ‘vada’, ‘quantity’: 2, ‘price’: 40}]",40,2019-10-21 7:06:24
+B424Z2019102110352626,MTR,"[{‘itemname’: ‘set dosa’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘rava idli’, ‘quantity’: 1, ‘price’: 20},{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}]",70,2019-10-21 7:08:24
+B424Z2019102110352625,MTR,"[{‘itemname’: ‘set dosa’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘rava idli’, ‘quantity’: 1, ‘price’: 20},{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}]",70,2019-10-21 7:10:24
+B424Z2019102110352634,MTR,"[{‘itemname’: ‘set dosa’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘rava idli’, ‘quantity’: 1, ‘price’: 20},{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}]",70,2019-10-21 7:12:24
+B424Z2019102110352595,hatti kaapi,"[{‘itemname’: ‘pongal’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘ghee dosa’, ‘quantity’: 1, ‘price’: 40}]",70,2019-10-21 7:14:24
+B424Z2019102110352590,hatti kaapi,"[{‘itemname’: ‘idiyappam’, ‘quantity’:2, ‘price’: 10}, {‘itemname’: ‘uttapam’, ‘quantity’: 1, ‘price’: 25}]",35,2019-10-21 7:16:24
+B424Z2019102110352542,kanti sagar,"[{‘itemname’: ‘Idli’, ‘quantity’: 1, ‘price’: 20}]",20,2019-10-21 7:18:24
+B424Z2019102110352572,udupi palace,"[{‘itemname’: ‘Rice bath’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘pulav’, ‘quantity’: 1, ‘price’: 30}]",60,2019-10-21 7:20:24
+B424Z2019102110352570,udupi palace,"[{‘itemname’: ‘Rice bath’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘pulav’, ‘quantity’: 1, ‘price’: 30}]",60,2019-10-21 7:22:24
+B424Z2019102110352636,MTR,"[{‘itemname’: ‘set dosa’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘rava idli’, ‘quantity’: 1, ‘price’: 20},{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}]",70,2019-10-21 7:24:24
+B424Z2019102110352633,MTR,"[{‘itemname’: ‘set dosa’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘rava idli’, ‘quantity’: 1, ‘price’: 20},{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}]",70,2019-10-21 7:26:24
+B424Z2019102110352553,kanti sagar,"[{‘itemname’: ‘vada’, ‘quantity’: 2, ‘price’: 40}]",40,2019-10-21 7:28:24
+B424Z2019102110352627,MTR,"[{‘itemname’: ‘set dosa’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘rava idli’, ‘quantity’: 1, ‘price’: 20},{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}]",70,2019-10-21 7:30:24
+B424Z2019102110352617,tuckshop,"[{‘itemname’: ‘set dosa’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘rava idli’, ‘quantity’: 1, ‘price’: 20},{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}]",70,2019-10-21 7:32:24
+B424Z2019102110352623,MTR,"[{‘itemname’: ‘set dosa’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘rava idli’, ‘quantity’: 1, ‘price’: 20},{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}]",70,2019-10-21 7:34:24
+B424Z2019102110352597,hatti kaapi,"[{‘itemname’: ‘pongal’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘ghee dosa’, ‘quantity’: 1, ‘price’: 40}]",70,2019-10-21 7:36:24
+B424Z2019102110352610,tuckshop,"[{‘itemname’: ‘pongal’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘ghee dosa’, ‘quantity’: 1, ‘price’: 40}]",70,2019-10-21 7:38:24
+B424Z2019102110352620,MTR,"[{‘itemname’: ‘set dosa’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘rava idli’, ‘quantity’: 1, ‘price’: 20},{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}]",70,2019-10-21 7:40:24
+B424Z2019102110352581,hatti kaapi,"[{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}, {‘itemname’: ‘medu vada’, ‘quantity’: 1, ‘price’: 15}]",35,2019-10-21 7:42:24
+B424Z2019102110352596,hatti kaapi,"[{‘itemname’: ‘pongal’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘ghee dosa’, ‘quantity’: 1, ‘price’: 40}]",70,2019-10-21 7:44:24
+B424Z2019102110352637,MTR,"[{‘itemname’: ‘set dosa’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘rava idli’, ‘quantity’: 1, ‘price’: 20},{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}]",70,2019-10-21 7:46:24
+B424Z2019102110352613,tuckshop,"[{‘itemname’: ‘set dosa’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘rava idli’, ‘quantity’: 1, ‘price’: 20},{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}]",70,2019-10-21 7:48:24
+B424Z2019102110352550,kanti sagar,"[{‘itemname’: ‘vada’, ‘quantity’: 2, ‘price’: 40}]",40,2019-10-21 7:50:24
+B424Z2019102110352602,tuckshop,"[{‘itemname’: ‘pongal’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘ghee dosa’, ‘quantity’: 1, ‘price’: 40}]",70,2019-10-21 7:52:24
+B424Z2019102110352540,kanti sagar,"[{‘itemname’: ‘Idli’, ‘quantity’: 1, ‘price’: 20}]",20,2019-10-21 7:54:24
+B424Z2019102110352564,udupi palace,"[{‘itemname’: ‘Rice bath’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘pulav’, ‘quantity’: 1, ‘price’: 30}]",60,2019-10-21 7:56:24
+B424Z2019102110352614,tuckshop,"[{‘itemname’: ‘set dosa’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘rava idli’, ‘quantity’: 1, ‘price’: 20},{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}]",70,2019-10-21 7:58:24
+B424Z2019102110352560,udupi palace,"[{‘itemname’: ‘upma’, ‘quantity’: 1, ‘price’: 30}]",30,2019-10-21 8:00:24
+B424Z2019102110352616,tuckshop,"[{‘itemname’: ‘set dosa’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘rava idli’, ‘quantity’: 1, ‘price’: 20},{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}]",70,2019-10-21 8:02:24
+B424Z2019102110352632,MTR,"[{‘itemname’: ‘set dosa’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘rava idli’, ‘quantity’: 1, ‘price’: 20},{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}]",70,2019-10-21 8:04:24
+B424Z2019102110352589,hatti kaapi,"[{‘itemname’: ‘idiyappam’, ‘quantity’:2, ‘price’: 10}, {‘itemname’: ‘uttapam’, ‘quantity’: 1, ‘price’: 25}]",35,2019-10-21 8:06:24
+B424Z2019102110352622,MTR,"[{‘itemname’: ‘set dosa’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘rava idli’, ‘quantity’: 1, ‘price’: 20},{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}]",70,2019-10-21 8:08:24
+B424Z2019102110352628,MTR,"[{‘itemname’: ‘set dosa’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘rava idli’, ‘quantity’: 1, ‘price’: 20},{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}]",70,2019-10-21 8:10:24
+B424Z2019102110352594,hatti kaapi,"[{‘itemname’: ‘pongal’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘ghee dosa’, ‘quantity’: 1, ‘price’: 40}]",70,2019-10-21 8:12:24
+B424Z2019102110352547,kanti sagar,"[{‘itemname’: ‘Idli’, ‘quantity’: 1, ‘price’: 20}]",20,2019-10-21 8:14:24
+B424Z2019102110352562,udupi palace,"[{‘itemname’: ‘upma’, ‘quantity’: 1, ‘price’: 30}]",30,2019-10-21 8:16:24
+B424Z2019102110352584,hatti kaapi,"[{‘itemname’: ‘idiyappam’, ‘quantity’:2, ‘price’: 10}, {‘itemname’: ‘uttapam’, ‘quantity’: 1, ‘price’: 25}]",35,2019-10-21 8:18:24
+B424Z2019102110352618,MTR,"[{‘itemname’: ‘set dosa’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘rava idli’, ‘quantity’: 1, ‘price’: 20},{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}]",70,2019-10-21 8:20:24
+B424Z2019102110352599,tuckshop,"[{‘itemname’: ‘pongal’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘ghee dosa’, ‘quantity’: 1, ‘price’: 40}]",70,2019-10-21 8:22:24
+B424Z2019102110352591,hatti kaapi,"[{‘itemname’: ‘idiyappam’, ‘quantity’:2, ‘price’: 10}, {‘itemname’: ‘uttapam’, ‘quantity’: 1, ‘price’: 25}]",35,2019-10-21 8:24:24
+B424Z2019102110352561,udupi palace,"[{‘itemname’: ‘upma’, ‘quantity’: 1, ‘price’: 30}]",30,2019-10-21 8:26:24
+B424Z2019102110352606,tuckshop,"[{‘itemname’: ‘pongal’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘ghee dosa’, ‘quantity’: 1, ‘price’: 40}]",70,2019-10-21 8:28:24
+B424Z2019102110352563,udupi palace,"[{‘itemname’: ‘Rice bath’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘pulav’, ‘quantity’: 1, ‘price’: 30}]",60,2019-10-21 8:30:24
+B424Z2019102110352571,udupi palace,"[{‘itemname’: ‘Rice bath’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘pulav’, ‘quantity’: 1, ‘price’: 30}]",60,2019-10-21 8:32:24
+B424Z2019102110352555,kanti sagar,"[{‘itemname’: ‘vada’, ‘quantity’: 2, ‘price’: 40}]",40,2019-10-21 8:34:24
+B424Z2019102110352574,udupi palace,"[{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}, {‘itemname’: ‘medu vada’, ‘quantity’: 1, ‘price’: 15}]",35,2019-10-21 8:36:24
+B424Z2019102110352539,kanti sagar,"[{‘itemname’: ‘Idli’, ‘quantity’: 1, ‘price’: 20}]",20,2019-10-21 8:38:24
+B424Z2019102110352629,MTR,"[{‘itemname’: ‘set dosa’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘rava idli’, ‘quantity’: 1, ‘price’: 20},{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}]",70,2019-10-21 8:40:24
+B424Z2019102110352544,kanti sagar,"[{‘itemname’: ‘Idli’, ‘quantity’: 1, ‘price’: 20}]",20,2019-10-21 8:42:24
+B424Z2019102110352580,hatti kaapi,"[{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}, {‘itemname’: ‘medu vada’, ‘quantity’: 1, ‘price’: 15}]",35,2019-10-21 8:44:24
+B424Z2019102110352631,MTR,"[{‘itemname’: ‘set dosa’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘rava idli’, ‘quantity’: 1, ‘price’: 20},{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}]",70,2019-10-21 8:46:24
+B424Z2019102110352568,udupi palace,"[{‘itemname’: ‘Rice bath’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘pulav’, ‘quantity’: 1, ‘price’: 30}]",60,2019-10-21 8:48:24
+B424Z2019102110352583,hatti kaapi,"[{‘itemname’: ‘idiyappam’, ‘quantity’:2, ‘price’: 10}, {‘itemname’: ‘uttapam’, ‘quantity’: 1, ‘price’: 25}]",35,2019-10-21 8:50:24
+B424Z2019102110352604,tuckshop,"[{‘itemname’: ‘pongal’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘ghee dosa’, ‘quantity’: 1, ‘price’: 40}]",70,2019-10-21 8:52:24
+B424Z2019102110352612,tuckshop,"[{‘itemname’: ‘pongal’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘ghee dosa’, ‘quantity’: 1, ‘price’: 40}]",70,2019-10-21 8:54:24
+B424Z2019102110352601,tuckshop,"[{‘itemname’: ‘pongal’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘ghee dosa’, ‘quantity’: 1, ‘price’: 40}]",70,2019-10-21 8:56:24
+B424Z2019102110352573,udupi palace,"[{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}, {‘itemname’: ‘medu vada’, ‘quantity’: 1, ‘price’: 15}]",35,2019-10-21 8:58:24
+B424Z2019102110352630,MTR,"[{‘itemname’: ‘set dosa’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘rava idli’, ‘quantity’: 1, ‘price’: 20},{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}]",70,2019-10-21 9:00:24
+B424Z2019102110352552,kanti sagar,"[{‘itemname’: ‘vada’, ‘quantity’: 2, ‘price’: 40}]",40,2019-10-21 9:02:24
+B424Z2019102110352624,MTR,"[{‘itemname’: ‘set dosa’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘rava idli’, ‘quantity’: 1, ‘price’: 20},{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}]",70,2019-10-21 9:04:24
+B424Z2019102110352621,MTR,"[{‘itemname’: ‘set dosa’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘rava idli’, ‘quantity’: 1, ‘price’: 20},{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}]",70,2019-10-21 9:06:24
+B424Z2019102110352619,MTR,"[{‘itemname’: ‘set dosa’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘rava idli’, ‘quantity’: 1, ‘price’: 20},{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}]",70,2019-10-21 9:08:24
+B424Z2019102110352579,hatti kaapi,"[{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}, {‘itemname’: ‘medu vada’, ‘quantity’: 1, ‘price’: 15}]",35,2019-10-21 9:10:24
+B424Z2019102110352587,hatti kaapi,"[{‘itemname’: ‘idiyappam’, ‘quantity’:2, ‘price’: 10}, {‘itemname’: ‘uttapam’, ‘quantity’: 1, ‘price’: 25}]",35,2019-10-21 9:12:24
+B424Z2019102110352592,hatti kaapi,"[{‘itemname’: ‘idiyappam’, ‘quantity’:2, ‘price’: 10}, {‘itemname’: ‘uttapam’, ‘quantity’: 1, ‘price’: 25}]",35,2019-10-21 9:14:24
+B424Z2019102110352615,tuckshop,"[{‘itemname’: ‘set dosa’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘rava idli’, ‘quantity’: 1, ‘price’: 20},{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}]",70,2019-10-21 9:16:24
+B424Z2019102110352565,udupi palace,"[{‘itemname’: ‘Rice bath’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘pulav’, ‘quantity’: 1, ‘price’: 30}]",60,2019-10-21 9:18:24
+B424Z2019102110352598,tuckshop,"[{‘itemname’: ‘pongal’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘ghee dosa’, ‘quantity’: 1, ‘price’: 40}]",70,2019-10-21 9:20:24
+B424Z2019102110352609,tuckshop,"[{‘itemname’: ‘pongal’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘ghee dosa’, ‘quantity’: 1, ‘price’: 40}]",70,2019-10-21 9:22:24
+B424Z2019102110352567,udupi palace,"[{‘itemname’: ‘Rice bath’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘pulav’, ‘quantity’: 1, ‘price’: 30}]",60,2019-10-21 9:24:24
+B424Z2019102110352605,tuckshop,"[{‘itemname’: ‘pongal’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘ghee dosa’, ‘quantity’: 1, ‘price’: 40}]",70,2019-10-21 9:26:24
+B424Z2019102110352588,hatti kaapi,"[{‘itemname’: ‘idiyappam’, ‘quantity’:2, ‘price’: 10}, {‘itemname’: ‘uttapam’, ‘quantity’: 1, ‘price’: 25}]",35,2019-10-21 9:28:24
+B424Z2019102110352575,udupi palace,"[{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}, {‘itemname’: ‘medu vada’, ‘quantity’: 1, ‘price’: 15}]",35,2019-10-21 9:30:24
+B424Z2019102110352600,tuckshop,"[{‘itemname’: ‘pongal’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘ghee dosa’, ‘quantity’: 1, ‘price’: 40}]",70,2019-10-21 9:32:24
+B424Z2019102110352578,hatti kaapi,"[{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}, {‘itemname’: ‘medu vada’, ‘quantity’: 1, ‘price’: 15}]",35,2019-10-21 9:34:24
+B424Z2019102110352541,kanti sagar,"[{‘itemname’: ‘Idli’, ‘quantity’: 1, ‘price’: 20}]",20,2019-10-21 9:36:24
+B424Z2019102110352603,tuckshop,"[{‘itemname’: ‘pongal’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘ghee dosa’, ‘quantity’: 1, ‘price’: 40}]",70,2019-10-21 9:38:24
+B424Z2019102110352566,udupi palace,"[{‘itemname’: ‘Rice bath’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘pulav’, ‘quantity’: 1, ‘price’: 30}]",60,2019-10-21 9:40:24
+B424Z2019102110352545,kanti sagar,"[{‘itemname’: ‘Idli’, ‘quantity’: 1, ‘price’: 20}]",20,2019-10-21 9:42:24
+B424Z2019102110352577,udupi palace,"[{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}, {‘itemname’: ‘medu vada’, ‘quantity’: 1, ‘price’: 15}]",35,2019-10-21 9:44:24
+B424Z2019102110352635,MTR,"[{‘itemname’: ‘set dosa’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘rava idli’, ‘quantity’: 1, ‘price’: 20},{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}]",70,2019-10-21 9:46:24
+B424Z2019102110352586,hatti kaapi,"[{‘itemname’: ‘idiyappam’, ‘quantity’:2, ‘price’: 10}, {‘itemname’: ‘uttapam’, ‘quantity’: 1, ‘price’: 25}]",35,2019-10-21 9:48:24
+B424Z2019102110352554,kanti sagar,"[{‘itemname’: ‘vada’, ‘quantity’: 2, ‘price’: 40}]",40,2019-10-21 9:50:24
+B424Z2019102110352546,kanti sagar,"[{‘itemname’: ‘Idli’, ‘quantity’: 1, ‘price’: 20}]",20,2019-10-21 9:52:24
+B424Z2019102110352569,udupi palace,"[{‘itemname’: ‘Rice bath’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘pulav’, ‘quantity’: 1, ‘price’: 30}]",60,2019-10-21 9:54:24
+B424Z2019102110352593,hatti kaapi,"[{‘itemname’: ‘pongal’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘ghee dosa’, ‘quantity’: 1, ‘price’: 40}]",70,2019-10-21 9:56:24
+B424Z2019102110352558,udupi palace,"[{‘itemname’: ‘upma’, ‘quantity’: 1, ‘price’: 30}]",30,2019-10-21 9:58:24
+B424Z2019102110352607,tuckshop,"[{‘itemname’: ‘pongal’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘ghee dosa’, ‘quantity’: 1, ‘price’: 40}]",70,2019-10-21 10:00:24
+B424Z2019102110352556,kanti sagar,"[{‘itemname’: ‘upma’, ‘quantity’: 1, ‘price’: 30}]",30,2019-10-21 10:02:24
+B424Z2019102110352608,tuckshop,"[{‘itemname’: ‘pongal’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘ghee dosa’, ‘quantity’: 1, ‘price’: 40}]",70,2019-10-21 10:04:24
+B424Z2019102110352559,udupi palace,"[{‘itemname’: ‘upma’, ‘quantity’: 1, ‘price’: 30}]",30,2019-10-21 10:06:24
+B424Z2019102110352611,tuckshop,"[{‘itemname’: ‘pongal’, ‘quantity’: 1, ‘price’: 30}, {‘itemname’: ‘ghee dosa’, ‘quantity’: 1, ‘price’: 40}]",70,2019-10-21 10:08:24
+B424Z2019102110352557,kanti sagar,"[{‘itemname’: ‘upma’, ‘quantity’: 1, ‘price’: 30}]",30,2019-10-21 10:10:24
+B424Z2019102110352585,hatti kaapi,"[{‘itemname’: ‘idiyappam’, ‘quantity’:2, ‘price’: 10}, {‘itemname’: ‘uttapam’, ‘quantity’: 1, ‘price’: 25}]",35,2019-10-21 10:12:24
+B424Z2019102110352549,kanti sagar,"[{‘itemname’: ‘vada’, ‘quantity’: 2, ‘price’: 40}]",40,2019-10-21 10:14:24
+B424Z2019102110352576,udupi palace,"[{‘itemname’: ‘puttu’, ‘quantity’: 1, ‘price’: 20}, {‘itemname’: ‘medu vada’, ‘quantity’: 1, ‘price’: 15}]",35,2019-10-21 10:16:24
